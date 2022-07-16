@@ -1,1 +1,0 @@
-# tintgire.github.io
