@@ -699,6 +699,7 @@ h4 {
   gap: 20px 0;
 }
 .lapanthere-img {
+  /* ici si bug */
   width: 305px;
   height: 90px;
   background: #a689ff;
