@@ -70,7 +70,7 @@ a:hover {
   right: 0;
 }
 .texture-paper::before {
-  background: url(img/texture-paper.webp);
+  background: url(../img/texture-paper.webp);
   background-size: 280px 280px;
   opacity: 0.5;
   background: #a689ff;
@@ -519,10 +519,10 @@ h4 {
   border-color: #364577 !important;
 }
 .bg-lines-h2-bg {
-  background-image: url(img/lines-h2-bg.webp);
+  background-image: url(../img/lines-h2-bg.webp);
 }
 .bg-banniere {
-  background-image: url(img/agence-la-panthere.webp);
+  background-image: url(../img/agence-la-panthere.webp);
 }
 @media (max-width: 425px) {
   .bg-banniere {
@@ -539,7 +539,7 @@ h4 {
   }
 }
 .bg-presentation {
-  background-image: url(img/image-de-presentation.webp);
+  background-image: url(../img/image-de-presentation.webp);
 }
 @media (max-width: 1024px) {
   .bloc {
@@ -684,6 +684,7 @@ h4 {
     padding-right: 0;
   }
 }
+/* ICI C EST MON CODE */
 .img-responsive {
   display: block;
   max-width: 100%;
