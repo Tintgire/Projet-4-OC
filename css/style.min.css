@@ -872,3 +872,7 @@ a {
 :focus:not(:focus-visible) {
   outline: none;
 }
+
+.colorstyle {
+  color: #230065 !important;
+}
